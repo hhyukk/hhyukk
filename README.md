@@ -4,4 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhyukk&show_icons=true&theme=radical)
 
-kakao Talk CloneCoding -> https://hhyukk.github.io/Kakao_CloneCoding/
+kakaoTalk -> https://hhyukk.github.io/Kakao_CloneCoding/
